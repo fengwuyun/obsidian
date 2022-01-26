@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "test_git.md",
+            "file": "test commit.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test_git.md",
+                "file": "test commit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,8 +108,8 @@
   },
   "active": "8153adf1e04dd9bb",
   "lastOpenFiles": [
+    "test commit.md",
     "test_git.md",
-    "未命名.md",
     "obs_git/obsidian/README.md",
     "2022-01-26.md"
   ]
