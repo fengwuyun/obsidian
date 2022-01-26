@@ -1,0 +1,116 @@
+{
+  "main": {
+    "id": "c45757879b297b3d",
+    "type": "split",
+    "children": [
+      {
+        "id": "8153adf1e04dd9bb",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "test_git.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0235442f6802a79e",
+    "type": "split",
+    "children": [
+      {
+        "id": "998d5d65d2a87b95",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "881230fcfd5b289b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "f2a7c0a10f62b7e1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "dbdf0df13c8d6bb6",
+    "type": "split",
+    "children": [
+      {
+        "id": "441319cf80c0201f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e6143ad730b19071",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "test_git.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "92e09fdfbd292d1f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4e4ac50794e5e9d7",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "8153adf1e04dd9bb",
+  "lastOpenFiles": [
+    "test_git.md",
+    "未命名.md",
+    "obs_git/obsidian/README.md",
+    "2022-01-26.md"
+  ]
+}
